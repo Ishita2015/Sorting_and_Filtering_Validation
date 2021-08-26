@@ -1,6 +1,6 @@
-# SwagLabs_Automation
+# Sorting and Filtering Validation
 
-This project aims to go into SimpleSite, apply sorting and filtering and validates the data.
+This project aims to go into SimpleSite, apply sorting and filtering and validate the data.
 
 Steps:
 
