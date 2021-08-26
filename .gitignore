@@ -4,7 +4,7 @@ target/*
 .project
 .classpath
 
-# Compiled class file
+# Compiled class files
 *.class
 
 # Log file
