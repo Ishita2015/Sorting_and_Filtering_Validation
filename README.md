@@ -8,7 +8,7 @@ Steps:
 
 2. Click on the Sort Data drop down and select by Name and then Impact score.
 
-3. Enter any data in Filter Data text box.
+3. Enter data provided in config file into Filter Data text box.
 
 4. Validate the sorting and filtering functionality.
 
