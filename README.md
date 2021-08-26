@@ -1,36 +1,16 @@
 # SwagLabs_Automation
 
-This project aims to login into SwagLabs site, apply filters, add the highest/lowest price items from available items into the cart and place the order.
+This project aims to go into SimpleSite, apply sorting and filtering and validates the data.
 
 Steps:
 
-1. Login to https://www.saucedemo.com/ using username and password.
+1. Go to https://mystifying-beaver-ee03b5.netlify.app/ .
 
-2. Click on the Open Menu button on the top left corner (It's a small box with 3 lines).
+2. Click on the Sort Data drop down and select by Name and then Impact score.
 
-3. Select 'About'.
+3. Enter any data in Filter Data text box.
 
-4. Check if user is taken to https://saucelabs.com/ site
-
-5. Click on the browser back button and Validate if you are taken back to the saucedemo PRODUCTS page.
-
-6. Click on Filter and select 'High to Low' then add the first item (which has the highest price) to the cart. Repeat the same using filter 'Low to High' for adding the lowest price item into the cart.
-
-7. Click on the Cart button available at the top right corner.
-
-8. Validate if you are taken to YOUR CART page.
-
-9. Click Checkout.
-
-10. Validate if you are navigated to CHECKOUT: YOUR INFORMATION page.
-
-11. Enter all details in the text boxes and click CONTINUE.
-
-12. Validate if you are navigated to CHECKOUT: OVERVIEW & Total Price is shown in 'Total: $' format.
-
-13. Click Finish
-
-14. Validate if your order has been completed or not.
+4. Validate the sorting and filtering functionality.
 
 ## Pre-requisite
 
@@ -43,11 +23,11 @@ For setup, read and follow the below instructions:
 ## Quickstart
 
 1. Open a Git Bash Prompt and run below command:
-   `git clone https://github.com/Ishita2015/SwagLabs_Automation.git`
+   `git clone https://github.com/Ishita2015/Sorting_and_Filtering_Validation.git`
 
 2. Open Eclipse:
 	1. Import Project as Maven -> Existing Maven Projects
-	2. Select `SwagLabs_Automation` project folder and click finish.
+	2. Select `SortingAndFiltering` project folder and click finish.
 
 3. The project will be imported and there is nothing special to do.
 

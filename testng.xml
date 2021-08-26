@@ -3,10 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.ishita.swaglabs.testcases.TC001_PerformLogin"/>
-      <class name="com.ishita.swaglabs.testcases.TC002_GoToAbout"/>
-      <class name="com.ishita.swaglabs.testcases.TC003_ApplyFilterAndAddItemToCart"/>
-      <class name="com.ishita.swaglabs.testcases.TC004_PerformCheckoutAndConfirmOrder"/>
+      <class name="com.ishita.sortingandfiltering.testcases.TC001_PerformSorting"/>
+      <class name="com.ishita.sortingandfiltering.testcases.TC002_PerformFiltering"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

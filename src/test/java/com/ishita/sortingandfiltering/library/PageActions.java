@@ -1,10 +1,10 @@
-package com.ishita.swaglabs.library;
+package com.ishita.sortingandfiltering.library;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 
-import com.ishita.swaglabs.base.BaseMethods;
+import com.ishita.sortingandfiltering.base.BaseMethods;
 
 public class PageActions extends BaseMethods{
 
