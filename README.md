@@ -1,6 +1,6 @@
 # Sorting and Filtering Validation
 
-This project aims to go into SimpleSite, apply sorting and filtering and validate the data.
+This project aims to go into SimpleSite, apply sorting, filtering and validate the data.
 
 Testcases are written by considering below points:
 
